@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-this is part of the second commit
+Changes made
 
 Welcome to Cloud Native's documentation!
 ========================================
